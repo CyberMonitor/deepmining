@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "deepmining:blocks/deep_deposit_lapis"
+    },
+    "model": "deepmining:block/deep_deposit_lapis",
+    "uvlock": true
+  },
+  "variants": {
+    "": [{
+    	"textures": {
+      		"all": "deepmining:blocks/deep_deposit_lapis"
+    	},
+    	"model": "deepmining:block/deep_deposit_lapis",
+    	"uvlock": true
+    }]
+  }
+}

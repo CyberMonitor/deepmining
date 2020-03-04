@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "deepmining:blocks/deep_deposit_diamond"
+    }
+}

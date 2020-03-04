@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "deepmining:blocks/deep_deposit_iron"
+    },
+    "model": "deepmining:block/deep_deposit_iron",
+    "uvlock": true
+  },
+  "variants": {
+    "": [{
+    	"textures": {
+      		"all": "deepmining:blocks/deep_deposit_iron"
+    	},
+    	"model": "deepmining:block/deep_deposit_iron",
+    	"uvlock": true
+    }]
+  }
+}

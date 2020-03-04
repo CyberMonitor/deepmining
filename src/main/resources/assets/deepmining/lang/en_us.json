@@ -1,0 +1,10 @@
+{
+  "block.deepmining.deep_deposit": "deep deposit",
+  "block.deepmining.deep_deposit_coal": "coal deep deposit",
+  "block.deepmining.deep_deposit_iron": "iron deep deposit",
+  "block.deepmining.deep_deposit_gold": "gold deep deposit",
+  "block.deepmining.deep_deposit_lapis": "lapis deep deposit",
+  "block.deepmining.deep_deposit_redstone": "redstone deep deposit",
+  "block.deepmining.deep_deposit_diamond": "diamond deep deposit",
+  "itemGroup.deepmining":"Deep Mining"
+}

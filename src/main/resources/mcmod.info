@@ -1,0 +1,10 @@
+[{
+  "modid": "deepmining",
+  "name": "Deep Mining",
+  "description": "This mod adds deep ore blocks that generate ore blocks around themselves",
+  "version": "1.0.0.0",
+  "mcversion": "1.15.2",
+  "logoFile": "assets/DeepMining/textures/logo.png",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["FuturisticLux"]
+}]
